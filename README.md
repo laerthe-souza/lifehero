@@ -23,15 +23,16 @@ Life Hero
 3. Run `yarn` to install dependencies<br />
 4. Run `yarn lerna bootstrap` to install the packages dependecies
 
-### Getting started with the backend server
+### Getting started with the server
 
 1. Move yourself to the backend folder: `cd server`
-2. Create a `.env` file and add the MongoDB url connection in MONGO_URL field
+2. Create a `.env` file and add all the environment variables required
 3. Run `yarn dev` to start the server
 
-### Getting started with the frontend app
+### Getting started with the web app
 
 1. Move yourself to the frontend folder: `cd web`
+2. Create a `.env` file and add all the environment variables required
 2. Run `yarn start` to start the web application
 
 ### Getting started with the mobile app
