@@ -16,6 +16,14 @@ Life Hero
 
 <hr />
 
+## Features
+
+- ReactJS
+- React Native
+- NodeJS
+- PostgreSQL
+- Socket.IO
+
 ## Getting started
 
 1. Clone this repo using `git clone git@github.com:laerthe-souza/lifehero.git`
