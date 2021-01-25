@@ -59,8 +59,7 @@ Life Hero
 <hr />
 
 <div align="center">
-  <img src="https://i.ibb.co/SyR2Zvd/profile-part01.png" alt="Profile page" width="600" height="350" />
-  <img src="https://i.ibb.co/wRDHTfr/profile-part02.png" alt="Profile page" width="600" height="350" />
+  <img src="https://i.ibb.co/7XCtXMw/Life-Hero.png" alt="Profile page" width="600" height="500" />
 
   <p>    
     This page is where the ONG can updating your datas and uploading profile picture.
