@@ -16,6 +16,10 @@ Life Hero
 
 <hr />
 
+<p align="center">
+  <img src="https://ibb.co/G3n1vKx" alt="Sign in page" width="700" height="350" />
+</p>
+
 ## Getting started
 
 1. Clone this repo using `git clone git@github.com:laerthe-souza/lifehero.git`
