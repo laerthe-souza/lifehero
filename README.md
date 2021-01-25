@@ -16,13 +16,43 @@ Life Hero
 
 <hr />
 
-## Sign in page
+## View the app
 
 <div align="center">
   <img src="https://i.ibb.co/fGqKYh1/sign-in.png" alt="Sign in page" width="600" height="350" />
 
   <p>
     This page is responsible for receiving the user's email and password and then authenticates to the database, after which an access token is returned to perform all operations (requests) in the API.
+  </p>
+</div>
+
+<hr />
+
+<div align="center">
+  <img src="https://i.ibb.co/XxFXZJT/sign-up.png" alt="Sign up page" width="600" height="350" />
+
+  <p>  
+    This page is responsible for receiving user data, validating all fields and then creating a new record in the database. After registering, the user must wait 24 hours for the administrator to verify the veracity of the data and activate the registration.
+  </p>
+</div>
+
+<hr />
+
+<div align="center">
+  <img src="https://i.ibb.co/xzsc8g8/dashboard.png" alt="Dashboard page" width="600" height="350" />
+
+  <p>  
+    This page is the dashboard, where the ONG views all incidents and performs operations.
+  </p>
+</div>
+
+<hr />
+
+<div align="center">
+  <img src="https://i.ibb.co/F5hpqMJ/new-incident.png" alt="New incident page page" width="600" height="350" />
+
+  <p>    
+  This page is where the ONG registers a new incident.
   </p>
 </div>
 
