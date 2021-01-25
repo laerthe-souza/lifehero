@@ -49,7 +49,20 @@ Life Hero
 <hr />
 
 <div align="center">
-  <img src="https://i.ibb.co/F5hpqMJ/new-incident.png" alt="New incident page page" width="600" height="350" />
+  <img src="https://i.ibb.co/F5hpqMJ/new-incident.png" alt="New incident page" width="600" height="350" />
+
+  <p>    
+  This page is where the ONG registers a new incident.
+  </p>
+</div>
+
+<hr />
+
+<div align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://i.ibb.co/SyR2Zvd/profile-part01.png" alt="Profile page" width="300" height="150" />
+    <img src="https://i.ibb.co/wRDHTfr/profile-part02.png" alt="Profile page" width="300" height="150" />
+  </div>
 
   <p>    
   This page is where the ONG registers a new incident.
