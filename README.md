@@ -16,19 +16,9 @@ Life Hero
 
 <hr />
 
-<<<<<<< HEAD
 <p align="center">
   <img src="https://ibb.co/G3n1vKx" alt="Sign in page" width="700" height="350" />
 </p>
-=======
-## Features
-
-- ReactJS
-- React Native
-- NodeJS
-- PostgreSQL
-- Socket.IO
->>>>>>> 043d89a61c95e6c5295057d889d12eea4da3801c
 
 ## Getting started
 
