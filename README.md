@@ -72,10 +72,10 @@ Life Hero
 ## View the mobile app
 
 <div align="center">
-  <img src="https://i.ibb.co/ckDkPW7/Screenshot-20210125-013601-1.png" alt="Profile page" />
-  <img src="https://i.ibb.co/N6hvzQk/Screenshot-20210125-013621-1.png" alt="Profile page" />
-  <img src="https://i.ibb.co/cgF7sL0/Screenshot-20210125-013634-1.png" alt="Profile page" />
-  <img src="https://i.ibb.co/qBVdYwc/Screenshot-20210125-013650-1.png" alt="Profile page" />
+  <img src="https://i.ibb.co/ckDkPW7/Screenshot-20210125-013601-1.png" alt="Profile page" width="200" height="450" />
+  <img src="https://i.ibb.co/N6hvzQk/Screenshot-20210125-013621-1.png" alt="Profile page" width="200" height="450" />
+  <img src="https://i.ibb.co/cgF7sL0/Screenshot-20210125-013634-1.png" alt="Profile page" width="200" height="450" />
+  <img src="https://i.ibb.co/qBVdYwc/Screenshot-20210125-013650-1.png" alt="Profile page" width="200" height="450" />
 
   <p>    
     This page is where the ONG can updating your datas and uploading profile picture.
