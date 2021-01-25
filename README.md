@@ -16,9 +16,15 @@ Life Hero
 
 <hr />
 
-<p align="center">
-  <img src="https://i.ibb.co/fGqKYh1/sign-in.png" alt="Sign in page" width="700" height="350" />
-</p>
+## Sign in page
+
+<div align="center">
+  <img src="https://i.ibb.co/fGqKYh1/sign-in.png" alt="Sign in page" width="600" height="350" />
+
+  <p>
+    This page is responsible for receiving the user's email and password and then authenticates to the database, after which an access token is returned to perform all operations (requests) in the API.
+  </p>
+</div>
 
 ## Getting started
 
