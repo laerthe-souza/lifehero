@@ -22,7 +22,7 @@ Life Hero
   <img src="https://i.ibb.co/fGqKYh1/sign-in.png" alt="Sign in page" width="600" height="350" />
 
   <p>
-    This page is responsible for receiving the user's email and password and then authenticates to the database, after which an access token is returned to perform all operations (requests) in the API.
+    This page is responsible for receiving the user's email and password and subsequently authenticating with the database. Then, a 'token' is provided to validate all future operations (requests) made in the API.
   </p>
 </div>
 
